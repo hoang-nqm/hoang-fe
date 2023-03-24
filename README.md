@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+The project has two functions: login and profile editing as follows:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- Login
+  Login with email: hoang.nqm45@gmail.com and password:123456
+  After logging in, the user will be saved to localStorage
+  Edit:
+  On the profile page will get user information and display, after editing can update information for the user.
 
 ## Available Scripts
 
